@@ -1,0 +1,10 @@
+2025-12-17 09:00:01 INFO: System boot sequence started.
+2025-12-17 09:05:22 INFO: Connection established to database.
+2025-12-17 09:10:45 WARNING: High memory usage detected (85%).
+2025-12-17 09:15:10 ERROR: Failed to upload profile picture.
+2025-12-17 09:20:00 INFO: User 'jdoe' logged in successfully.
+2025-12-17 09:25:33 ERROR: Timeout connecting to API gateway.
+2025-12-17 09:30:12 WARNING: Disk space reaching 90% capacity.
+2025-12-17 09:45:00 INFO: Automatic backup completed.
+2025-12-17 10:00:05 ERROR: Unauthorized access attempt detected.
+2025-12-17 10:15:22 INFO: System heartbeat - All services green.
